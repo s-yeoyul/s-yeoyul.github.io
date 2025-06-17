@@ -317,7 +317,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: archive
       show_date: true
       author_profile: true
       read_time: true
