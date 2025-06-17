@@ -1,6 +1,5 @@
 ---
 title: "Falling Love with mouse"
-layout: post
 ---
 
 # My little Mouse
