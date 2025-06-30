@@ -1,9 +1,7 @@
 ---
-title : "Return To Library"
-date: 2024-06-30 10:00:00 +0900
+title: "Return To Library"
 published: true
 ---
-
 # Stack Protection: NX and ASLR
 Traditional system exploitation often relied on stack overflow attacks. To mitigate this, architects introduced stack canary, which protects the return address on the stack from being written.
 
